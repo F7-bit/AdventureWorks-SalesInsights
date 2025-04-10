@@ -2,9 +2,11 @@
 
 This repository contains an interactive Power BI dashboard that visualizes and analyzes the sales performance of the fictional AdventureWorks company. The dashboard offers a business-friendly interface to monitor trends in revenue, profit, product performance, and customer behavior over time.
 
-![Dashboard Screenshot](Adventure Works Dash.png)
-
 ---
+
+## Dashboard Preview
+<img src="Adventure Works Dash.png"/>&nbsp;
+
 
 ## ✅ Project Overview
 
