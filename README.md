@@ -5,7 +5,7 @@ This repository contains an interactive Power BI dashboard that visualizes and a
 ---
 
 ## Dashboard Preview
-<img src="Adventure Works Dash.png"/>&nbsp;
+<img src="Adventure Works Dashboard.png"/>&nbsp;
 
 
 ## ✅ Project Overview
